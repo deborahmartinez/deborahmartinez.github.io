@@ -1,5 +1,5 @@
 ---
-title: "Déborah A. Martínez"
+title: "Déborah Martínez"
 output: html_document
 ---
 
@@ -8,21 +8,24 @@ output: html_document
 
 
 
-![](picture/me2.png){width="200"} 
-
-Current master’s student of Political Science, specializing in Global Environmental Governance, Sustainability, and Climate Change. Previous experience in both quantitative and qualitative research methodologies, with expertise in data analysis and survey analysis both in field and result’s interpretation. Experienced in leading teams, conducting fieldwork research, and managing stakeholder relationships. Current main research regarding Global Environmental Governance and particularly climate aid to developing countries.
+![](picture/me2.png){width="150"} 
 
 
-[CV1](<./academic_cv.pdf>)
+As a native of Chiapas, Mexico, my upbringing amidst the rich biodiversity and socio-economic complexities of the region ignited a fervent passion for understanding and addressing the deep-rooted inequalities prevalent in developing nations, particularly within indigenous communities. My journey in political science commenced during my bachelor's studies, where I delved into the allocation of financial resources for forest conservation in Chiapas, shedding light on the intricate interplay between environmental preservation, poverty alleviation, and social justice.
 
-[CV2](</academic_cv.pdf>)
+Driven by a desire to further explore these pressing issues through a political lens, I pursued a master's degree in Political Science with a specialization in Global Environmental Governance, Sustainability, and Climate Change at Vrije Universiteit Amsterdam. Here, I honed my expertise in quantitative methodologies while broadening my understanding of the political intricacies surrounding climate finance allocation in the Global South.
 
-[CV](https://drive.google.com/file/d/1_K9jxIjrAkqF-OYHpXOCOM30tu-3W9iY/view?usp=sharing)
+During my academic journey, I had the privilege of leading discussions on financial systems from an equity and justice perspective, an experience that crystallized my commitment to approaching research through a lens of fairness and inclusivity. My current thesis work, informed by Rawlsian principles of justice, delves into vulnerability in developing countries concerning climate financial resources, encapsulating my dedication to addressing systemic inequities.
 
-<a href="file:///academic_cv.pdf">link</a>
+Beyond academia, my professional experience as a Senior Consultant at MORANT Consultants in Mexico City equipped me with invaluable skills in data analysis, project management, and stakeholder engagement. I led teams in developing innovative solutions grounded in rigorous analysis, further cementing my ability to navigate complex socio-political landscapes.
+
+As I embark on the next phase of my academic journey, I am poised to contribute meaningfully to the discourse on global environmental governance, climate justice, and sustainable development, with a steadfast commitment to amplifying the voices of marginalized communities and fostering equitable solutions to our world's most pressing challenges.
 
 
 
-Contact details 
+[CV](<./academic_cv.pdf>)
 
+
+
+Email:  
 <deborahandrea.m@hotmail.com>
