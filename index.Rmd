@@ -13,7 +13,7 @@ output: html_document
 Current master’s student of Political Science, specializing in Global Environmental Governance, Sustainability, and Climate Change. Previous experience in both quantitative and qualitative research methodologies, with expertise in data analysis and survey analysis both in field and result’s interpretation. Experienced in leading teams, conducting fieldwork research, and managing stakeholder relationships. Current main research regarding Global Environmental Governance and particularly climate aid to developing countries.
 
 
-[CV](file:///Users/deborahandream/Documents/Git/deborahmartinez.github.io/cv/Academic%20CV.html)
+[CV](<./cv/Academic CV.pdf>)
 
 Contact details 
 
