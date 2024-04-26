@@ -8,7 +8,7 @@ output: html_document
 
 
 
-![](picture/me2.png){width="150"} 
+![](picture/me2.png){width="190"} 
 
 
 As a native of Chiapas, Mexico, my upbringing amidst the rich biodiversity and socio-economic complexities of the region ignited a fervent passion for understanding and addressing the deep-rooted inequalities prevalent in developing nations, particularly within indigenous communities. My journey in political science commenced during my bachelor's studies, where I delved into the allocation of financial resources for forest conservation in Chiapas, shedding light on the intricate interplay between environmental preservation, poverty alleviation, and social justice.
